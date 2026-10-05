@@ -1,6 +1,6 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
-import "Swiper/css";
+import "swiper/css";
 import ad1 from "../../assets/ads/ad1.jpeg";
 import ad2 from "../../assets/ads/ad2.jpeg";
 import ad3 from "../../assets/ads/ad3.jpeg";
